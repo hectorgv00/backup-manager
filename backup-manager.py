@@ -1,7 +1,6 @@
 import os
 import shutil
 from datetime import datetime
-import time
 
 def create_backup(source_folder, target_folder):
     """Creates a backup of the source folder inside the target _ folder with a timest
